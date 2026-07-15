@@ -127,7 +127,7 @@
           "id": "ydkj2015",
           "name": "А голову ты не забыл? 2015",
           "internal_name": "YDKJ2015",
-          "background": "https://jackboxgames.ru/wp-content/uploads/2022/07/164_3.png",
+          "background": "game_backgrounds/YDKJ2015.webp",
           "path": "games/YDKJ2015",
           "game_info": {
             "players": {
@@ -151,7 +151,11 @@
             "small_description": "Для 1-4 игроков.",
             "description": "Для 1-4 игроков. Старая добрая комическая викторинка с весёлыми рубриками. И звуками пердежа. Перевод ещё не выпущен",
             "images": [
-              "https://jackboxgames.ru/wp-content/uploads/2022/07/164_3.png"
+              "game_images/YDKJ2015/ydkj2015.mp4",
+              "game_images/YDKJ2015/ydkj2015_1.webp",
+              "game_images/YDKJ2015/ydkj2015_2.webp",
+              "game_images/YDKJ2015/ydkj2015_3.webp",
+              "game_images/YDKJ2015/ydkj2015_4.webp"
             ],
             "tags": [
               "knowledge"
@@ -219,7 +223,7 @@
           "id": "wordspud",
           "name": "Словоблуд",
           "internal_name": "WordSpud",
-          "background": "https://jackboxgames.ru/wp-content/uploads/2020/05/Drawful1-210x300.png",
+          "background": "game_backgrounds/WordSpud.webp",
           "path": "games/WordSpud",
           "game_info": {
             "players": {
@@ -242,7 +246,9 @@
             "small_description": "Для 2-8 игроков.",
             "description": "Для 2-8 игроков. Игра-в-которой-тебе-надо-дополнить-текст-так-как-ты-захочешь-лишь-бы-это-залайкали-остальные-игроки.",
             "images": [
-              "https://jackboxgames.ru/wp-content/uploads/2020/05/Drawful1-210x300.png"
+              "game_images/WordSpud/wordspud.mp4",
+              "game_images/WordSpud/wordspud_1.webp",
+              "game_images/WordSpud/wordspud_2.webp"
             ],
             "tags": [
               "writing"
@@ -263,7 +269,7 @@
           "id": "lieswatter",
           "name": "Мухи-врухи",
           "internal_name": "LieSwatterParty",
-          "background": "https://jackboxgames.ru/wp-content/uploads/2020/06/WordSpud-300x225.png",
+          "background": "game_backgrounds/LieSwatter.webp",
           "path": "games/LieSwatter",
           "game_info": {
             "players": {
@@ -286,7 +292,9 @@
             "small_description": "Для 1-100 игроков.",
             "description": "Для 1-100 игроков. Игра типа «правда-ложь» для почти бесконечного количества игроков. Места хватит всем!",
             "images": [
-              "https://jackboxgames.ru/wp-content/uploads/2020/06/WordSpud-300x225.png"
+              "game_images/LieSwatter/lieswatter.mp4",
+              "game_images/LieSwatter/lieswatter_1.webp",
+              "game_images/LieSwatter/lieswatter_2.webp"
             ],
             "tags": [
               "knowledge"
@@ -307,7 +315,7 @@
           "id": "fibbagexl",
           "name": "Бредовуха XL",
           "internal_name": "FibbageXL",
-          "background": "https://jackboxgames.ru/wp-content/uploads/2020/03/LS-fly-1024x576.png",
+          "background": "game_backgrounds/FibbageXL.webp",
           "path": "games/FibbageXL",
           "game_info": {
             "players": {
@@ -330,7 +338,10 @@
             "small_description": "Для 2-8 игроков.",
             "description": "Для 2-8 игроков. Игра, в которой надо придумывать ложные варианты ответа и одновременно искать правдивые. В версии XL на 50% больше вопросов, чем в оригинальной версии!",
             "images": [
-              "https://jackboxgames.ru/wp-content/uploads/2020/03/LS-fly-1024x576.png"
+              "game_images/FibbageXL/fibbagexl.mp4",
+              "game_images/FibbageXL/fibbagexl_1.webp",
+              "game_images/FibbageXL/fibbagexl_2.webp",
+              "game_images/FibbageXL/fibbagexl_3.webp"
             ],
             "tags": [
               "writing",
@@ -443,7 +454,7 @@
           "id": "earwax",
           "name": "Звукварь",
           "internal_name": "Earwax",
-          "background": "https://jackboxgames.ru/wp-content/uploads/2021/04/1-1.png",
+          "background": "game_backgrounds/Earwax.webp",
           "path": "games/Earwax",
           "game_info": {
             "players": {
@@ -467,7 +478,11 @@
             "small_description": "Для 3-8 игроков.",
             "description": "Для 3-8 игроков. Звуки «МУ»? Большой взрыв? Или яростный пердёж? Выбери самые весёлые звуки и одержи победу.",
             "images": [
-              "https://jackboxgames.ru/wp-content/uploads/2021/04/1-1.png"
+              "game_images/Earwax/earwax.mp4",
+              "game_images/Earwax/earwax_1.webp",
+              "game_images/Earwax/earwax_2.webp",
+              "game_images/Earwax/earwax_3.webp",
+              "game_images/Earwax/earwax_4.webp"
             ],
             "tags": []
           },
@@ -486,7 +501,7 @@
           "id": "bidiots",
           "name": "Дуракцион",
           "internal_name": "Auction",
-          "background": "https://jackboxgames.ru/wp-content/uploads/2020/09/earwax_ru.png",
+          "background": "game_backgrounds/Bidiots.webp",
           "path": "games/Bidiots",
           "game_info": {
             "players": {
@@ -509,7 +524,11 @@
             "small_description": "Для 3-6 игроков.",
             "description": "Для 3-6 игроков. Без зрителей! Абсурдная игра-аукцион картинной галереи. Стоимость картин назначают секретные эксперты, а сами картины пишут… наши игроки! Купи по дешёвке самые ценные картины, но не дай другим переиграть тебя!",
             "images": [
-              "https://jackboxgames.ru/wp-content/uploads/2020/09/earwax_ru.png"
+              "game_images/Bidiots/bidiots.mp4",
+              "game_images/Bidiots/bidiots_1.webp",
+              "game_images/Bidiots/bidiots_2.webp",
+              "game_images/Bidiots/bidiots_3.webp",
+              "game_images/Bidiots/bidiots_4.webp"
             ],
             "tags": [
               "drawing",
@@ -531,7 +550,7 @@
           "id": "quiplashxl",
           "name": "Смехлыст XL",
           "internal_name": "QuiplashXL",
-          "background": "https://jackboxgames.ru/wp-content/uploads/2022/10/bomb_banner.png",
+          "background": "game_backgrounds/QuiplashXL.webp",
           "path": "games/QuiplashXL",
           "game_info": {
             "players": {
@@ -555,7 +574,11 @@
             "small_description": "Для 3-8 игроков.",
             "description": "Для 3-8 игроков. Шути, что хочешь, и поддерживай хорошие варианты. На 100 весёлых заданий больше, чем в оригинальной (не-XL и не 2) версии!",
             "images": [
-              "https://jackboxgames.ru/wp-content/uploads/2022/10/bomb_banner.png"
+              "game_images/QuiplashXL/quiplashxl.mp4",
+              "game_images/QuiplashXL/quiplashxl_1.webp",
+              "game_images/QuiplashXL/quiplashxl_2.webp",
+              "game_images/QuiplashXL/quiplashxl_3.webp",
+              "game_images/QuiplashXL/quiplashxl_4.webp"
             ],
             "tags": [
               "writing"
@@ -598,13 +621,17 @@
             "small_description": "Для 1-4 игроков.",
             "description": "Для 1-4 игроков. Без зрителей! Вы – стажёры корпорации, которые должны обезвреживать бомбы, чтобы поддерживать слаженную работу в офисе. Скорее всего, вы все подорвётесь, зато какое веселье!",
             "images": [
-              "https://jackboxgames.ru/wp-content/uploads/2020/09/Fibbage2_en.jpg"
+              "game_images/BombCorp/bombcorp.mp4",
+              "game_images/BombCorp/bombcorp_1.webp",
+              "game_images/BombCorp/bombcorp_2.webp",
+              "game_images/BombCorp/bombcorp_3.webp",
+              "game_images/BombCorp/bombcorp_4.webp"
             ],
             "tags": [
               "talking"
             ]
           },
-          "background": "https://jackboxgames.ru/wp-content/uploads/2020/09/Fibbage2_en.jpg",
+          "background": "game_backgrounds/BombCorp.webp",
           "path": "games/BombInterns",
           "loader": {
             "path": "loaders/tjpp2/bombcorp.zip",
@@ -662,7 +689,7 @@
           "id": "quiplash2",
           "name": "Смехлыст 2",
           "internal_name": "Quiplash2",
-          "background": "https://jackboxgames.ru/wp-content/uploads/2021/04/16r.png",
+          "background": "game_backgrounds/Quiplash2.webp",
           "path": "games/Quiplash2",
           "game_info": {
             "players": {
@@ -686,7 +713,11 @@
             "small_description": "Для 3-8 игроков.",
             "description": "Для 3-8 игроков. Сиквел, в котором ты можешь говорить всё, что хочешь. Играй с нашими новыми заданиями или придумай свои!",
             "images": [
-              "https://jackboxgames.ru/wp-content/uploads/2021/04/16r.png"
+              "game_images/Quiplash2/quiplash2.mp4",
+              "game_images/Quiplash2/quiplash2_1.webp",
+              "game_images/Quiplash2/quiplash2_2.webp",
+              "game_images/Quiplash2/quiplash2_3.webp",
+              "game_images/Quiplash2/quiplash2_4.webp"
             ],
             "tags": [
               "writing"
@@ -707,7 +738,7 @@
           "id": "triviamurderparty",
           "name": "Смертельная вечеринка",
           "internal_name": "triviadeath",
-          "background": "https://jackboxgames.ru/wp-content/uploads/2021/04/шпионаж.png",
+          "background": "game_backgrounds/TriviaMurderParty.webp",
           "path": "games/TriviaMurderParty",
           "game_info": {
             "players": {
@@ -731,7 +762,11 @@
             "small_description": "Для 1-8 игроков.",
             "description": "Для 1-8 игроков. Ужасно страшная викторина, где ты встретишься со свихнувшимся серийным убийцей, который любит проверять интеллект!",
             "images": [
-              "https://jackboxgames.ru/wp-content/uploads/2021/04/шпионаж.png"
+              "game_images/TriviaMurderParty/triviamurderparty.mp4",
+              "game_images/TriviaMurderParty/triviamurderparty_1.webp",
+              "game_images/TriviaMurderParty/triviamurderparty_2.webp",
+              "game_images/TriviaMurderParty/triviamurderparty_3.webp",
+              "game_images/TriviaMurderParty/triviamurderparty_4.webp"
             ],
             "tags": [
               "knowledge"
@@ -752,7 +787,7 @@
           "id": "guesspionage",
           "name": "Нашшпионаж",
           "internal_name": "PollPosition",
-          "background": "https://jackboxgames.ru/wp-content/uploads/2020/05/FakinIt.png",
+          "background": "game_backgrounds/Guesspionage.webp",
           "path": "games/Guesspionage",
           "game_info": {
             "players": {
@@ -776,7 +811,11 @@
             "small_description": "Для 2-8 игроков.",
             "description": "Для 2-8 игроков. Игра, в которой тебе предстоит угадывать результаты анализа данных о других людях.",
             "images": [
-              "https://jackboxgames.ru/wp-content/uploads/2020/05/FakinIt.png"
+              "game_images/Guesspionage/guesspionage.mp4",
+              "game_images/Guesspionage/guesspionage_1.webp",
+              "game_images/Guesspionage/guesspionage_2.webp",
+              "game_images/Guesspionage/guesspionage_3.webp",
+              "game_images/Guesspionage/guesspionage_4.webp"
             ],
             "tags": [
               "knowledge"
@@ -797,7 +836,7 @@
           "id": "fakinit",
           "name": "Обмани меня!",
           "internal_name": "FakinIt",
-          "background": "https://jackboxgames.ru/wp-content/uploads/2021/04/5cd2163c8df8ebd17626eb67cae518a9.png",
+          "background": "game_backgrounds/FakinIt.webp",
           "path": "games/FakinIt",
           "game_info": {
             "players": {
@@ -822,7 +861,11 @@
             "small_description": "Для 3-6 игроков.",
             "description": "Для 3-6 игроков. Рекомендуется видеосвязь с игроками или личное присутствие! У твоего друга будет секрет, который тебе и надо раскрыть в этой игре, созданной для удачливых обманщиков. Смотри нашу инструкцию!",
             "images": [
-              "https://jackboxgames.ru/wp-content/uploads/2021/04/5cd2163c8df8ebd17626eb67cae518a9.png"
+              "game_images/FakinIt/fakinit.mp4",
+              "game_images/FakinIt/fakinit_1.webp",
+              "game_images/FakinIt/fakinit_2.webp",
+              "game_images/FakinIt/fakinit_3.webp",
+              "game_images/FakinIt/fakinit_4.webp"
             ],
             "tags": [
               "deduction",
@@ -844,7 +887,7 @@
           "id": "teeko",
           "name": "Футбол К.О.",
           "internal_name": "AwShirt",
-          "background": "https://jackboxgames.ru/wp-content/uploads/2021/01/tmp2logo.png",
+          "background": "game_backgrounds/TeeKO.webp",
           "path": "games/TeeKO",
           "game_info": {
             "players": {
@@ -868,7 +911,11 @@
             "small_description": "Для 3-8 игроков.",
             "description": "Для 3-8 игроков. Фестиваль одежды, где придуманные игроками футболки сражаются не на жизнь, а на смерть.",
             "images": [
-              "https://jackboxgames.ru/wp-content/uploads/2021/01/tmp2logo.png"
+              "game_images/TeeKO/teeko.mp4",
+              "game_images/TeeKO/teeko_1.webp",
+              "game_images/TeeKO/teeko_2.webp",
+              "game_images/TeeKO/teeko_3.webp",
+              "game_images/TeeKO/teeko_4.webp"
             ],
             "tags": [
               "drawing",
@@ -1017,7 +1064,7 @@
           "id": "fibbage3",
           "name": "Бредовуха 3",
           "internal_name": "Fibbage3",
-          "background": "https://jackboxgames.ru/wp-content/uploads/2017/12/FibbageEAY_logo_post-1024x607.jpg",
+          "background": "game_backgrounds/Fibbage3.webp",
           "path": "games/Fibbage3",
           "game_info": {
             "players": {
@@ -1041,7 +1088,11 @@
             "small_description": "Для 2-8 игроков.",
             "description": "Для 2-8 игроков. Третья часть игры на заполнение пропусков в интересных фактах, теперь с новыми типами вопросов и игровым режимом «Бредовуха: Мы всё про вас знаем».",
             "images": [
-              "https://jackboxgames.ru/wp-content/uploads/2017/12/FibbageEAY_logo_post-1024x607.jpg"
+              "game_images/Fibbage3/fibbage3.mp4",
+              "game_images/Fibbage3/fibbage3_1.webp",
+              "game_images/Fibbage3/fibbage3_2.webp",
+              "game_images/Fibbage3/fibbage3_3.webp",
+              "game_images/Fibbage3/fibbage3_4.webp"
             ],
             "tags": [
               "writing",
@@ -1063,7 +1114,7 @@
           "id": "survivetheinternet",
           "name": "Выжить в Интернете",
           "internal_name": "SurviveTheInternet",
-          "background": "https://jackboxgames.ru/wp-content/uploads/2020/03/MonsterSeekingMonster.png",
+          "background": "game_backgrounds/SurviveTheInternet.webp",
           "path": "games/SurviveTheInternet",
           "game_info": {
             "players": {
@@ -1087,7 +1138,11 @@
             "small_description": "Для 3-8 игроков.",
             "description": "Для 3-8 игроков. Весёлая игра про Всемирную паутину, где тебе нужно придумать смешной контекст к онлайн-комментариям своих друзей. Отличный повод получить или потерять друзей!",
             "images": [
-              "https://jackboxgames.ru/wp-content/uploads/2020/03/MonsterSeekingMonster.png"
+              "game_images/SurviveTheInternet/survivetheinternet.mp4",
+              "game_images/SurviveTheInternet/survivetheinternet_1.webp",
+              "game_images/SurviveTheInternet/survivetheinternet_2.webp",
+              "game_images/SurviveTheInternet/survivetheinternet_3.webp",
+              "game_images/SurviveTheInternet/survivetheinternet_4.webp"
             ],
             "tags": [
               "writing"
@@ -1108,7 +1163,7 @@
           "id": "monsterseekingmonster",
           "name": "Монстр ищет монстра",
           "internal_name": "MonsterMingle",
-          "background": "https://jackboxgames.ru/wp-content/uploads/2020/04/Bracketeering.png",
+          "background": "game_backgrounds/MonsterSeekingMonster.webp",
           "path": "games/MonsterMingle",
           "game_info": {
             "players": {
@@ -1132,7 +1187,11 @@
             "small_description": "Для 3-7 игроков.",
             "description": "Для 3-7 игроков. Марафон ужасных свиданий, где тебе придётся переписываться и встречаться с монстрами, обладающими особыми способностями.",
             "images": [
-              "https://jackboxgames.ru/wp-content/uploads/2020/04/Bracketeering.png"
+              "game_images/MonsterSeekingMonster/monsterseekingmonster.mp4",
+              "game_images/MonsterSeekingMonster/monsterseekingmonster_1.webp",
+              "game_images/MonsterSeekingMonster/monsterseekingmonster_2.webp",
+              "game_images/MonsterSeekingMonster/monsterseekingmonster_3.webp",
+              "game_images/MonsterSeekingMonster/monsterseekingmonster_4.webp"
             ],
             "tags": [
               "writing",
@@ -1154,7 +1213,7 @@
           "id": "bracketeering",
           "name": "Панччемпионат",
           "internal_name": "Bracketeering",
-          "background": "https://jackboxgames.ru/wp-content/uploads/2020/04/CivicDoodle.png",
+          "background": "game_backgrounds/Bracketeering.webp",
           "path": "games/Bracketeering",
           "game_info": {
             "players": {
@@ -1178,7 +1237,11 @@
             "small_description": "Для 3-16 игроков.",
             "description": "Для 3-16 игроков. Чемпионат из сумасшедших ответов. Делай умные ставки на победу в глупых битвах!",
             "images": [
-              "https://jackboxgames.ru/wp-content/uploads/2020/04/CivicDoodle.png"
+              "game_images/Bracketeering/bracketeering.mp4",
+              "game_images/Bracketeering/bracketeering_1.webp",
+              "game_images/Bracketeering/bracketeering_2.webp",
+              "game_images/Bracketeering/bracketeering_3.webp",
+              "game_images/Bracketeering/bracketeering_4.webp"
             ],
             "tags": [
               "writing"
@@ -1289,7 +1352,7 @@
           "id": "ydkj_fullstream",
           "name": "А голову ты не забыл? Full Stream",
           "internal_name": "YDKJ2018",
-          "background": "https://jackboxgames.ru/wp-content/uploads/2019/08/BannerSplittheRoom-1024x576.png",
+          "background": "game_backgrounds/YDKJFullStream.webp",
           "path": "games/YDKJ2018",
           "game_info": {
             "players": {
@@ -1313,7 +1376,11 @@
             "small_description": "Для 1-8 игроков.",
             "description": "Для 1-8 игроков. Классика возвращается! Теперь с участием зрителей. Новые задания и звуки пердежа – уже внутри.",
             "images": [
-              "https://jackboxgames.ru/wp-content/uploads/2019/08/BannerSplittheRoom-1024x576.png"
+              "game_images/YDKJFullStream/ydkjfullstream.mp4",
+              "game_images/YDKJFullStream/ydkjfullstream_1.webp",
+              "game_images/YDKJFullStream/ydkjfullstream_2.webp",
+              "game_images/YDKJFullStream/ydkjfullstream_3.webp",
+              "game_images/YDKJFullStream/ydkjfullstream_4.webp"
             ],
             "tags": [
               "knowledge"
@@ -1334,7 +1401,7 @@
           "id": "splittheroom",
           "name": "Раздели комнату",
           "internal_name": "SplitTheRoom",
-          "background": "https://jackboxgames.ru/wp-content/uploads/2022/01/24-1024x833.png",
+          "background": "game_backgrounds/SplitTheRoom.webp",
           "path": "games/SplitTheRoom",
           "game_info": {
             "players": {
@@ -1358,7 +1425,11 @@
             "small_description": "Для 3-8 игроков.",
             "description": "Для 3-8 игроков. Создавай странные и противоречивые ситуации, а затем попытайся поделить всех остальных на два лагеря! Отличный повод потерять половину друзей (если не повезёт).",
             "images": [
-              "https://jackboxgames.ru/wp-content/uploads/2022/01/24-1024x833.png"
+              "game_images/SplitTheRoom/splittheroom.mp4",
+              "game_images/SplitTheRoom/splittheroom_1.webp",
+              "game_images/SplitTheRoom/splittheroom_2.webp",
+              "game_images/SplitTheRoom/splittheroom_3.webp",
+              "game_images/SplitTheRoom/splittheroom_4.webp"
             ],
             "tags": [
               "writing",
@@ -1669,7 +1740,7 @@
           "id": "jokeboat",
           "name": "Корабль смеха",
           "internal_name": "Jokeboat",
-          "background": "https://jackboxgames.ru/wp-content/uploads/2023/05/1.png",
+          "background": "game_backgrounds/JokeBoat.webp",
           "path": "games/JokeBoat",
           "game_info": {
             "players": {
@@ -1694,7 +1765,11 @@
             "small_description": "Для 3-8 игроков.",
             "description": "Для 3-8 игроков. Отправляйтесь в смешной до колик круиз, рассмеши всех и получи главный приз — спасение с тонущего корабля!",
             "images": [
-              "https://jackboxgames.ru/wp-content/uploads/2023/05/1.png"
+              "game_images/JokeBoat/jokeboat.mp4",
+              "game_images/JokeBoat/jokeboat_1.webp",
+              "game_images/JokeBoat/jokeboat_2.webp",
+              "game_images/JokeBoat/jokeboat_3.webp",
+              "game_images/JokeBoat/jokeboat_4.webp"
             ],
             "tags": [
               "writing",
@@ -1716,7 +1791,7 @@
           "id": "dictionarium",
           "name": "Словариум",
           "internal_name": "Ridictionary",
-          "background": "https://jackboxgames.ru/wp-content/uploads/2020/11/ptb-ru-site.png",
+          "background": "game_backgrounds/Dictionarium.webp",
           "path": "games/Ridictionary",
           "game_info": {
             "players": {
@@ -1740,7 +1815,11 @@
             "small_description": "Для 3-6 игроков.",
             "description": "Для 3-6 игроков. Всем словам нужны определения. Даже новым. Придумывайте значения слов и создавайте из них уморительные предложения!",
             "images": [
-              "https://jackboxgames.ru/wp-content/uploads/2020/11/ptb-ru-site.png"
+              "game_images/Dictionarium/dictionarium.mp4",
+              "game_images/Dictionarium/dictionarium_1.webp",
+              "game_images/Dictionarium/dictionarium_2.webp",
+              "game_images/Dictionarium/dictionarium_3.webp",
+              "game_images/Dictionarium/dictionarium_4.webp"
             ],
             "tags": [
               "writing"
@@ -1761,7 +1840,7 @@
           "id": "pushthebutton",
           "name": "Жми на кнопку",
           "internal_name": "PushTheButton",
-          "background": "https://jackboxgames.ru/wp-content/uploads/2024/08/rolemodels_logo.png",
+          "background": "game_backgrounds/PushTheButton.webp",
           "path": "games/PushTheButton",
           "game_info": {
             "players": {
@@ -1785,7 +1864,11 @@
             "small_description": "Для 4-10 игроков.",
             "description": "Для 4-10 игроков. Без зрителей! Всё то же «Обмани меня», только теперь в гиперпространстве. Найди жуликов-инопланетян и выгони их с корабля!",
             "images": [
-              "https://jackboxgames.ru/wp-content/uploads/2024/08/rolemodels_logo.png"
+              "game_images/PushTheButton/pushthebutton.mp4",
+              "game_images/PushTheButton/pushthebutton_1.webp",
+              "game_images/PushTheButton/pushthebutton_2.webp",
+              "game_images/PushTheButton/pushthebutton_3.webp",
+              "game_images/PushTheButton/pushthebutton_4.webp"
             ],
             "tags": [
               "talking",
@@ -1850,7 +1933,7 @@
           "id": "quiplash3",
           "name": "Смехлыст 3",
           "internal_name": "Quiplash3",
-          "background": "https://jackboxgames.ru/wp-content/uploads/2021/04/5cd2163c8df8ebd17626eb67cae518a9.png",
+          "background": "game_backgrounds/Quiplash3.webp",
           "path": "games/Quiplash3",
           "game_info": {
             "players": {
@@ -1874,7 +1957,11 @@
             "small_description": "Для 3-8 игроков.",
             "description": "Для 3-8 игроков. Триквел знаменитой игры – та же старая-добрая битва шуток, но теперь в пластилиновом мире и с новым финалом!",
             "images": [
-              "https://jackboxgames.ru/wp-content/uploads/2021/04/5cd2163c8df8ebd17626eb67cae518a9.png"
+              "game_images/Quiplash3/quiplash3.mp4",
+              "game_images/Quiplash3/quiplash3_1.webp",
+              "game_images/Quiplash3/quiplash3_2.webp",
+              "game_images/Quiplash3/quiplash3_3.webp",
+              "game_images/Quiplash3/quiplash3_4.webp"
             ],
             "tags": [
               "writing"
@@ -1895,7 +1982,7 @@
           "id": "thedevilsandthedetails",
           "name": "Дьяволы в деталях",
           "internal_name": "Everyday",
-          "background": "https://jackboxgames.ru/wp-content/uploads/2021/02/tp_ru.png",
+          "background": "game_backgrounds/TheDevilsAndTheDetails.webp",
           "path": "games/Everyday",
           "game_info": {
             "players": {
@@ -1920,7 +2007,11 @@
             "small_description": "Для 3-8 игроков.",
             "description": "Для 3-8 игроков. Вы – семья дьяволов, перебравшаяся из ада на землю. Работая в команде, выполняйте обыденные дела людей и постарайтесь выжить в круговороте забот!",
             "images": [
-              "https://jackboxgames.ru/wp-content/uploads/2021/02/tp_ru.png"
+              "game_images/TheDevilsAndTheDetails/thedevilsandthedetails.mp4",
+              "game_images/TheDevilsAndTheDetails/thedevilsandthedetails_1.webp",
+              "game_images/TheDevilsAndTheDetails/thedevilsandthedetails_2.webp",
+              "game_images/TheDevilsAndTheDetails/thedevilsandthedetails_3.webp",
+              "game_images/TheDevilsAndTheDetails/thedevilsandthedetails_4.webp"
             ],
             "tags": [
               "talking",
@@ -1942,7 +2033,7 @@
           "id": "champdup",
           "name": "ГладиАРТоры",
           "internal_name": "WorldChampions",
-          "background": "https://jackboxgames.ru/wp-content/uploads/2021/02/br_en.png",
+          "background": "game_backgrounds/Champdup.webp",
           "path": "games/WorldChampions",
           "game_info": {
             "players": {
@@ -1966,7 +2057,11 @@
             "small_description": "Для 3-8 игроков.",
             "description": "Для 3-8 игроков. Нарисуй бойцов, которые смогут стать чемпионами в борьбе за самые странные титулы!",
             "images": [
-              "https://jackboxgames.ru/wp-content/uploads/2021/02/br_en.png"
+              "game_images/ChampdUp/champdup.mp4",
+              "game_images/ChampdUp/champdup_1.webp",
+              "game_images/ChampdUp/champdup_2.webp",
+              "game_images/ChampdUp/champdup_3.webp",
+              "game_images/ChampdUp/champdup_4.webp"
             ],
             "tags": [
               "drawing",
@@ -1988,7 +2083,7 @@
           "id": "talkingpoints",
           "name": "На пальцах",
           "internal_name": "JackboxTalks",
-          "background": "https://jackboxgames.ru/wp-content/uploads/2021/02/98-1024x477.png",
+          "background": "game_backgrounds/TalkingPoints.webp",
           "path": "games/JackboxTalks",
           "game_info": {
             "players": {
@@ -2013,7 +2108,11 @@
             "small_description": "Для 3-8 игроков.",
             "description": "Для 3-8 игроков. Выступи с презентацией, которую увидишь в первый раз. Просто без остановки говори о выбранных другим игроком слайдах, и неважно, будет ли в твоих словах смысл!",
             "images": [
-              "https://jackboxgames.ru/wp-content/uploads/2021/02/98-1024x477.png"
+              "game_images/TalkingPoints/talkingpoints.mp4",
+              "game_images/TalkingPoints/talkingpoints_1.webp",
+              "game_images/TalkingPoints/talkingpoints_2.webp",
+              "game_images/TalkingPoints/talkingpoints_3.webp",
+              "game_images/TalkingPoints/talkingpoints_4.webp"
             ],
             "tags": [
               "talking",
@@ -2125,7 +2224,7 @@
           "id": "quiplash3_ms",
           "name": "Смехлыст 3",
           "internal_name": "Quiplash3",
-          "background": "https://jackboxgames.ru/wp-content/uploads/2021/04/5cd2163c8df8ebd17626eb67cae518a9.png",
+          "background": "game_backgrounds/Quiplash3.webp",
           "path": "games/Quiplash3",
           "game_info": {
             "players": {
@@ -2149,7 +2248,11 @@
             "small_description": "Для 3-8 игроков.",
             "description": "Для 3-8 игроков. Триквел знаменитой игры – та же старая-добрая битва шуток, но теперь в пластилиновом мире и с новым финалом!",
             "images": [
-              "https://jackboxgames.ru/wp-content/uploads/2021/04/5cd2163c8df8ebd17626eb67cae518a9.png"
+              "game_images/Quiplash3/quiplash3.mp4",
+              "game_images/Quiplash3/quiplash3_1.webp",
+              "game_images/Quiplash3/quiplash3_2.webp",
+              "game_images/Quiplash3/quiplash3_3.webp",
+              "game_images/Quiplash3/quiplash3_4.webp"
             ],
             "tags": [
               "writing"
@@ -2170,7 +2273,7 @@
           "id": "thedevilsandthedetails_ms",
           "name": "Дьяволы в деталях",
           "internal_name": "Everyday",
-          "background": "https://jackboxgames.ru/wp-content/uploads/2021/02/tp_ru.png",
+          "background": "game_backgrounds/TheDevilsAndTheDetails.webp",
           "path": "games/Everyday",
           "game_info": {
             "players": {
@@ -2195,7 +2298,11 @@
             "small_description": "Для 3-8 игроков.",
             "description": "Для 3-8 игроков. Вы – семья дьяволов, перебравшаяся из ада на землю. Работая в команде, выполняйте обыденные дела людей и постарайтесь выжить в круговороте забот!",
             "images": [
-              "https://jackboxgames.ru/wp-content/uploads/2021/02/tp_ru.png"
+              "game_images/TheDevilsAndTheDetails/thedevilsandthedetails.mp4",
+              "game_images/TheDevilsAndTheDetails/thedevilsandthedetails_1.webp",
+              "game_images/TheDevilsAndTheDetails/thedevilsandthedetails_2.webp",
+              "game_images/TheDevilsAndTheDetails/thedevilsandthedetails_3.webp",
+              "game_images/TheDevilsAndTheDetails/thedevilsandthedetails_4.webp"
             ],
             "tags": [
               "talking",
@@ -2217,7 +2324,7 @@
           "id": "champdup_ms",
           "name": "ГладиАРТоры",
           "internal_name": "WorldChampions",
-          "background": "https://jackboxgames.ru/wp-content/uploads/2021/02/br_en.png",
+          "background": "game_backgrounds/Champdup.webp",
           "path": "games/WorldChampions",
           "game_info": {
             "players": {
@@ -2241,7 +2348,11 @@
             "small_description": "Для 3-8 игроков.",
             "description": "Для 3-8 игроков. Нарисуй бойцов, которые смогут стать чемпионами в борьбе за самые странные титулы!",
             "images": [
-              "https://jackboxgames.ru/wp-content/uploads/2021/02/br_en.png"
+              "game_images/ChampdUp/champdup.mp4",
+              "game_images/ChampdUp/champdup_1.webp",
+              "game_images/ChampdUp/champdup_2.webp",
+              "game_images/ChampdUp/champdup_3.webp",
+              "game_images/ChampdUp/champdup_4.webp"
             ],
             "tags": [
               "drawing",
@@ -2263,7 +2374,7 @@
           "id": "talkingpoints_ms",
           "name": "На пальцах",
           "internal_name": "JackboxTalks",
-          "background": "https://jackboxgames.ru/wp-content/uploads/2021/02/98-1024x477.png",
+          "background": "game_backgrounds/TalkingPoints.webp",
           "path": "games/JackboxTalks",
           "game_info": {
             "players": {
@@ -2288,7 +2399,11 @@
             "small_description": "Для 3-8 игроков.",
             "description": "Для 3-8 игроков. Выступи с презентацией, которую увидишь в первый раз. Просто без остановки говори о выбранных другим игроком слайдах, и неважно, будет ли в твоих словах смысл!",
             "images": [
-              "https://jackboxgames.ru/wp-content/uploads/2021/02/98-1024x477.png"
+              "game_images/TalkingPoints/talkingpoints.mp4",
+              "game_images/TalkingPoints/talkingpoints_1.webp",
+              "game_images/TalkingPoints/talkingpoints_2.webp",
+              "game_images/TalkingPoints/talkingpoints_3.webp",
+              "game_images/TalkingPoints/talkingpoints_4.webp"
             ],
             "tags": [
               "talking",
@@ -2403,7 +2518,7 @@
           "id": "drawful_animate",
           "name": "Рисовач: Анимач",
           "internal_name": "DrawfulAnimate",
-          "background": "https://jackboxgames.ru/wp-content/uploads/2022/05/34.png",
+          "background": "game_backgrounds/DrawfulAnimate.webp",
           "path": "games/DrawfulAnimate",
           "game_info": {
             "players": {
@@ -2427,7 +2542,11 @@
             "small_description": "Для 3-10 игроков.",
             "description": "Для 3-10 игроков. Триквел старой-доброй игры на рисование. Но теперь игроки рисуют не эти скучные рисунки, а настоящие анимации!",
             "images": [
-              "https://jackboxgames.ru/wp-content/uploads/2022/05/34.png"
+              "game_images/DrawfulAnimate/drawfulanimate.mp4",
+              "game_images/DrawfulAnimate/drawfulanimate_1.webp",
+              "game_images/DrawfulAnimate/drawfulanimate_2.webp",
+              "game_images/DrawfulAnimate/drawfulanimate_3.webp",
+              "game_images/DrawfulAnimate/drawfulanimate_4.webp"
             ],
             "tags": [
               "drawing",
@@ -2498,7 +2617,7 @@
           "id": "jobjob",
           "name": "За работой",
           "internal_name": "JobGame",
-          "background": "https://jackboxgames.ru/wp-content/uploads/2022/04/Без-имени-1.png",
+          "background": "game_backgrounds/JobJob.webp",
           "path": "games/JobGame",
           "game_info": {
             "players": {
@@ -2522,7 +2641,11 @@
             "small_description": "Для 3-10 игроков.",
             "description": "Для 3-10 игроков. Вырывай любые слова из предложений других игроков, чтобы ответить на вопросы собеседования и получить работу!",
             "images": [
-              "https://jackboxgames.ru/wp-content/uploads/2022/04/Без-имени-1.png"
+              "game_images/JobJob/jobjob.mp4",
+              "game_images/JobJob/jobjob_1.webp",
+              "game_images/JobJob/jobjob_2.webp",
+              "game_images/JobJob/jobjob_3.webp",
+              "game_images/JobJob/jobjob_4.webp"
             ],
             "tags": [
               "writing"
@@ -2543,7 +2666,7 @@
           "id": "thepollmine",
           "name": "Подземнения",
           "internal_name": "SurveyBomb",
-          "background": "https://jackboxgames.ru/wp-content/uploads/2022/01/5-1024x713.png",
+          "background": "game_backgrounds/ThePollMine.webp",
           "path": "games/SurveyBomb",
           "game_info": {
             "players": {
@@ -2568,7 +2691,11 @@
             "small_description": "Для 2-10 игроков.",
             "description": "Для 2-10 игроков. Вместе со своей командой находи двери с правильными ответами на опросы, чтобы выбраться из страшной пещеры!",
             "images": [
-              "https://jackboxgames.ru/wp-content/uploads/2022/01/5-1024x713.png"
+              "game_images/PollMine/pollmine.mp4",
+              "game_images/PollMine/pollmine_1.webp",
+              "game_images/PollMine/pollmine_2.webp",
+              "game_images/PollMine/pollmine_3.webp",
+              "game_images/PollMine/pollmine_4.webp"
             ],
             "tags": [
               "talking",
@@ -2684,7 +2811,7 @@
           "id": "fibbage4",
           "name": "Бредовуха 4",
           "internal_name": "Fibbage4",
-          "background": "https://jackboxgames.ru/wp-content/uploads/2023/09/379.png",
+          "background": "game_backgrounds/Fibbage4.webp",
           "path": "games/Fibbage4",
           "game_info": {
             "players": {
@@ -2708,7 +2835,11 @@
             "small_description": "Для 2-8 игроков.",
             "description": "Для 2-8 игроков. Уморительная игра для лжецов возвращается с новым финалом, видеовопросами, вопросами от фанатов и многим другим! Перевод ещё не выпущен.",
             "images": [
-              "https://jackboxgames.ru/wp-content/uploads/2023/09/379.png"
+              "game_images/Fibbage4/fibbage4.mp4",
+              "game_images/Fibbage4/fibbage4_1.jpg",
+              "game_images/Fibbage4/fibbage4_2.jpg",
+              "game_images/Fibbage4/fibbage4_3.jpg",
+              "game_images/Fibbage4/fibbage4_4.jpg"
             ],
             "tags": [
               "writing",
@@ -2730,7 +2861,7 @@
           "id": "roomerang",
           "name": "Квартиранг",
           "internal_name": "MakeFriends",
-          "background": "https://jackboxgames.ru/wp-content/uploads/2023/03/logo-site-1024x341.png",
+          "background": "game_backgrounds/Roomerang.webp",
           "path": "games/MakeFriends",
           "game_info": {
             "players": {
@@ -2754,7 +2885,11 @@
             "small_description": "Для 4-9 игроков.",
             "description": "Для 4-9 игроков. Стань звездой реалити-шоу! Отвечай на вопросы, соревнуйся и играй свою роль, чтобы не вылететь. Но не бойся, даже если тебя выгонят, ты снова окажешься в центре драмы!",
             "images": [
-              "https://jackboxgames.ru/wp-content/uploads/2023/03/logo-site-1024x341.png"
+              "game_images/Roomerang/roomerang.mp4",
+              "game_images/Roomerang/roomerang_1.jpg",
+              "game_images/Roomerang/roomerang_2.jpg",
+              "game_images/Roomerang/roomerang_3.jpg",
+              "game_images/Roomerang/roomerang_4.jpg"
             ],
             "tags": [
               "writing"
@@ -2775,7 +2910,7 @@
           "id": "junktopia",
           "name": "Хламотопия",
           "internal_name": "AntiqueGame",
-          "background": "https://jackboxgames.ru/wp-content/uploads/2023/02/Nonsensory.png",
+          "background": "game_backgrounds/Junktopia.webp",
           "path": "games/AntiqueGame",
           "game_info": {
             "players": {
@@ -2800,7 +2935,11 @@
             "small_description": "Для 3-8 игроков.",
             "description": "Для 3-8 игроков. Странный волшебник превратил тебя в лягушку! Придумывай смешные истории странных предметов, а затем рассказывай их. Игрок с самыми ценными предметами снова станет человеком!",
             "images": [
-              "https://jackboxgames.ru/wp-content/uploads/2023/02/Nonsensory.png"
+              "game_images/Junktopia/junktopia.mp4",
+              "game_images/Junktopia/junktopia_1.jpg",
+              "game_images/Junktopia/junktopia_2.jpg",
+              "game_images/Junktopia/junktopia_3.jpg",
+              "game_images/Junktopia/junktopia_4.jpg"
             ],
             "tags": [
               "writing",
@@ -2822,7 +2961,7 @@
           "id": "nonsensory",
           "name": "Несуразум",
           "internal_name": "RangeGame",
-          "background": "https://jackboxgames.ru/wp-content/uploads/2023/02/quixort_logo-1024x372.png",
+          "background": "game_backgrounds/Nonsensory.webp",
           "path": "games/RangeGame",
           "game_info": {
             "players": {
@@ -2846,7 +2985,11 @@
             "small_description": "Для 3-8 игроков.",
             "description": "Для 3-8 игроков. Профессор Янка хочет проверить способности вашего мозга в этой игре на рисунки, написание ответов и угадывание! Насколько точно ты сможешь отгадать задания других игроков по их ответам? Перевод ещё не выпущен.",
             "images": [
-              "https://jackboxgames.ru/wp-content/uploads/2023/02/quixort_logo-1024x372.png"
+              "game_images/Nonsensory/nonsensory.mp4",
+              "game_images/Nonsensory/nonsensory_1.jpg",
+              "game_images/Nonsensory/nonsensory_2.jpg",
+              "game_images/Nonsensory/nonsensory_3.jpg",
+              "game_images/Nonsensory/nonsensory_4.jpg"
             ],
             "tags": [
               "writing",
@@ -2957,7 +3100,7 @@
           "id": "fibbage4_ms",
           "name": "Бредовуха 4",
           "internal_name": "Fibbage4",
-          "background": "https://jackboxgames.ru/wp-content/uploads/2023/09/379.png",
+          "background": "game_backgrounds/Fibbage4.webp",
           "path": "games/Fibbage4",
           "game_info": {
             "players": {
@@ -2981,7 +3124,11 @@
             "small_description": "Для 2-8 игроков.",
             "description": "Для 2-8 игроков. Уморительная игра для лжецов возвращается с новым финалом, видеовопросами, вопросами от фанатов и многим другим! Перевод ещё не выпущен.",
             "images": [
-              "https://jackboxgames.ru/wp-content/uploads/2023/09/379.png"
+              "game_images/Fibbage4/fibbage4.mp4",
+              "game_images/Fibbage4/fibbage4_1.jpg",
+              "game_images/Fibbage4/fibbage4_2.jpg",
+              "game_images/Fibbage4/fibbage4_3.jpg",
+              "game_images/Fibbage4/fibbage4_4.jpg"
             ],
             "tags": [
               "writing",
@@ -3003,7 +3150,7 @@
           "id": "roomerang_ms",
           "name": "Квартиранг",
           "internal_name": "MakeFriends",
-          "background": "https://jackboxgames.ru/wp-content/uploads/2023/03/logo-site-1024x341.png",
+          "background": "game_backgrounds/Roomerang.webp",
           "path": "games/MakeFriends",
           "game_info": {
             "players": {
@@ -3027,7 +3174,11 @@
             "small_description": "Для 4-9 игроков.",
             "description": "Для 4-9 игроков. Стань звездой реалити-шоу! Отвечай на вопросы, соревнуйся и играй свою роль, чтобы не вылететь. Но не бойся, даже если тебя выгонят, ты снова окажешься в центре драмы!",
             "images": [
-              "https://jackboxgames.ru/wp-content/uploads/2023/03/logo-site-1024x341.png"
+              "game_images/Roomerang/roomerang.mp4",
+              "game_images/Roomerang/roomerang_1.jpg",
+              "game_images/Roomerang/roomerang_2.jpg",
+              "game_images/Roomerang/roomerang_3.jpg",
+              "game_images/Roomerang/roomerang_4.jpg"
             ],
             "tags": [
               "writing"
@@ -3048,7 +3199,7 @@
           "id": "junktopia_ms",
           "name": "Хламотопия",
           "internal_name": "AntiqueGame",
-          "background": "https://jackboxgames.ru/wp-content/uploads/2023/02/Nonsensory.png",
+          "background": "game_backgrounds/Junktopia.webp",
           "path": "games/AntiqueGame",
           "game_info": {
             "players": {
@@ -3073,7 +3224,11 @@
             "small_description": "Для 3-8 игроков.",
             "description": "Для 3-8 игроков. Странный волшебник превратил тебя в лягушку! Придумывай смешные истории странных предметов, а затем рассказывай их. Игрок с самыми ценными предметами снова станет человеком!",
             "images": [
-              "https://jackboxgames.ru/wp-content/uploads/2023/02/Nonsensory.png"
+              "game_images/Junktopia/junktopia.mp4",
+              "game_images/Junktopia/junktopia_1.jpg",
+              "game_images/Junktopia/junktopia_2.jpg",
+              "game_images/Junktopia/junktopia_3.jpg",
+              "game_images/Junktopia/junktopia_4.jpg"
             ],
             "tags": [
               "writing",
@@ -3095,7 +3250,7 @@
           "id": "nonsensory_ms",
           "name": "Несуразум",
           "internal_name": "RangeGame",
-          "background": "https://jackboxgames.ru/wp-content/uploads/2023/02/quixort_logo-1024x372.png",
+          "background": "game_backgrounds/Nonsensory.webp",
           "path": "games/RangeGame",
           "game_info": {
             "players": {
@@ -3119,7 +3274,11 @@
             "small_description": "Для 3-8 игроков.",
             "description": "Для 3-8 игроков. Профессор Янка хочет проверить способности вашего мозга в этой игре на рисунки, написание ответов и угадывание! Насколько точно ты сможешь отгадать задания других игроков по их ответам? Перевод ещё не выпущен.",
             "images": [
-              "https://jackboxgames.ru/wp-content/uploads/2023/02/quixort_logo-1024x372.png"
+              "game_images/Nonsensory/nonsensory.mp4",
+              "game_images/Nonsensory/nonsensory_1.jpg",
+              "game_images/Nonsensory/nonsensory_2.jpg",
+              "game_images/Nonsensory/nonsensory_3.jpg",
+              "game_images/Nonsensory/nonsensory_4.jpg"
             ],
             "tags": [
               "writing",
@@ -4378,7 +4537,7 @@
           "id": "quiplash3_starter",
           "name": "Смехлыст 3",
           "internal_name": "Quiplash3",
-          "background": "https://jackboxgames.ru/wp-content/uploads/2021/04/5cd2163c8df8ebd17626eb67cae518a9.png",
+          "background": "game_backgrounds/Quiplash3Starter.webp",
           "path": "games/Quiplash3",
           "game_info": {
             "players": {
@@ -4402,7 +4561,11 @@
             "small_description": "Для 3-8 игроков.",
             "description": "Для 3-8 игроков. Триквел знаменитой игры – та же старая-добрая битва шуток, но теперь в пластилиновом мире и с новым финалом!",
             "images": [
-              "https://jackboxgames.ru/wp-content/uploads/2021/04/5cd2163c8df8ebd17626eb67cae518a9.png"
+              "game_images/Quiplash3/quiplash3starter.mp4",
+              "game_images/Quiplash3/quiplash3_1.webp",
+              "game_images/Quiplash3/quiplash3_2.webp",
+              "game_images/Quiplash3/quiplash3_3.webp",
+              "game_images/Quiplash3/quiplash3_4.webp"
             ],
             "tags": [
               "writing"
@@ -4423,7 +4586,7 @@
           "id": "teeko_starter",
           "name": "Футбол К.О.",
           "internal_name": "AwShirt",
-          "background": "https://jackboxgames.ru/wp-content/uploads/2021/01/tmp2logo.png",
+          "background": "game_backgrounds/TeeKOStarter.webp",
           "path": "games/AwShirt",
           "game_info": {
             "players": {
@@ -4447,7 +4610,11 @@
             "small_description": "Для 3-8 игроков.",
             "description": "Для 3-8 игроков. Фестиваль одежды, где придуманные игроками футболки сражаются не на жизнь, а на смерть.",
             "images": [
-              "https://jackboxgames.ru/wp-content/uploads/2021/01/tmp2logo.png"
+              "game_images/TeeKO/teekostarter.mp4",
+              "game_images/TeeKO/teeko_1.webp",
+              "game_images/TeeKO/teeko_2.webp",
+              "game_images/TeeKO/teeko_3.webp",
+              "game_images/TeeKO/teeko_4.webp"
             ],
             "tags": [
               "drawing",
@@ -4557,7 +4724,7 @@
           "id": "quiplash3_starter_ms",
           "name": "Смехлыст 3",
           "internal_name": "Quiplash3",
-          "background": "https://jackboxgames.ru/wp-content/uploads/2021/04/5cd2163c8df8ebd17626eb67cae518a9.png",
+          "background": "game_backgrounds/Quiplash3Starter.webp",
           "path": "games/Quiplash3",
           "game_info": {
             "players": {
@@ -4581,7 +4748,11 @@
             "small_description": "Для 3-8 игроков.",
             "description": "Для 3-8 игроков. Триквел знаменитой игры – та же старая-добрая битва шуток, но теперь в пластилиновом мире и с новым финалом!",
             "images": [
-              "https://jackboxgames.ru/wp-content/uploads/2021/04/5cd2163c8df8ebd17626eb67cae518a9.png"
+              "game_images/Quiplash3/quiplash3starter.mp4",
+              "game_images/Quiplash3/quiplash3_1.webp",
+              "game_images/Quiplash3/quiplash3_2.webp",
+              "game_images/Quiplash3/quiplash3_3.webp",
+              "game_images/Quiplash3/quiplash3_4.webp"
             ],
             "tags": [
               "writing"
@@ -4602,7 +4773,7 @@
           "id": "teeko_starter_ms",
           "name": "Футбол К.О.",
           "internal_name": "AwShirt",
-          "background": "https://jackboxgames.ru/wp-content/uploads/2021/01/tmp2logo.png",
+          "background": "game_backgrounds/TeeKOStarter.webp",
           "path": "games/AwShirt",
           "game_info": {
             "players": {
@@ -4626,7 +4797,11 @@
             "small_description": "Для 3-8 игроков.",
             "description": "Для 3-8 игроков. Фестиваль одежды, где придуманные игроками футболки сражаются не на жизнь, а на смерть.",
             "images": [
-              "https://jackboxgames.ru/wp-content/uploads/2021/01/tmp2logo.png"
+              "game_images/TeeKO/teekostarter.mp4",
+              "game_images/TeeKO/teeko_1.webp",
+              "game_images/TeeKO/teeko_2.webp",
+              "game_images/TeeKO/teeko_3.webp",
+              "game_images/TeeKO/teeko_4.webp"
             ],
             "tags": [
               "drawing",
@@ -5269,7 +5444,7 @@
         {
           "id": "fibbagexl_standalone",
           "name": "Бредовуха XL",
-          "background": "https://jackboxgames.ru/wp-content/uploads/2020/03/LS-fly-1024x576.png",
+          "background": "game_backgrounds/FibbageXLStandalone.webp",
           "path": "",
           "game_info": {
             "players": {
@@ -5292,7 +5467,10 @@
             "small_description": "Для 2-8 игроков.",
             "description": "Для 2-8 игроков. Игра, в которой надо придумывать ложные варианты ответа и одновременно искать правдивые. В версии XL на 50% больше вопросов, чем в оригинальной версии!",
             "images": [
-              "https://jackboxgames.ru/wp-content/uploads/2020/03/LS-fly-1024x576.png"
+              "game_images/FibbageXL/fibbagexl.mp4",
+              "game_images/FibbageXL/fibbagexl_1.webp",
+              "game_images/FibbageXL/fibbagexl_2.webp",
+              "game_images/FibbageXL/fibbagexl_3.webp"
             ],
             "tags": [
               "writing",
@@ -5347,7 +5525,7 @@
         {
           "id": "quiplash",
           "name": "Смехлыст",
-          "background": "https://jackboxgames.ru/wp-content/uploads/2020/03/jbgru_logo_2020-250x63.png",
+          "background": "game_backgrounds/Quiplash.webp",
           "path": "",
           "game_info": {
             "players": {
@@ -5371,7 +5549,11 @@
             "small_description": "Взрывная битва умных и остроумных! Здесь нет правил или правильных ответов.",
             "description": "Взрывная битва умных и остроумных! Здесь нет правил или правильных ответов. Просто говори, что хочешь! Твой ответ вступит в битву с ответом другого игрока. А остальные игроки и зрители будут голосовать за понравившийся вариант. Всё просто.",
             "images": [
-              "https://jackboxgames.ru/wp-content/uploads/2020/03/jbgru_logo_2020-250x63.png"
+              "game_images/QuiplashXL/quiplashxl.mp4",
+              "game_images/QuiplashXL/quiplashxl_1.webp",
+              "game_images/QuiplashXL/quiplashxl_2.webp",
+              "game_images/QuiplashXL/quiplashxl_3.webp",
+              "game_images/QuiplashXL/quiplashxl_4.webp"
             ],
             "tags": [
               "writing"
@@ -5549,7 +5731,7 @@
         {
           "id": "drawful_2",
           "name": "Рисовач 2",
-          "background": "https://jackboxgames.ru/wp-content/uploads/2020/03/jbgru_logo_2020-250x63.png",
+          "background": "game_backgrounds/Drawful2.webp",
           "path": "",
           "game_info": {
             "players": {
@@ -5573,7 +5755,11 @@
             "small_description": "Вторая часть игры-рисовашки.",
             "description": "Вторая часть игры-рисовашки. Рисуй понятные рисунки, а твои друзья постараются отгадать их. Но они тоже в деле и будут предлагать свои варианты, дабы сбить всех с толку! Кто из вас рисует красивее всех, а кто понятнее всех?",
             "images": [
-              "https://jackboxgames.ru/wp-content/uploads/2020/03/jbgru_logo_2020-250x63.png"
+              "game_images/Drawful2/drawful2.mp4",
+              "game_images/Drawful2/drawful2_1.webp",
+              "game_images/Drawful2/drawful2_2.webp",
+              "game_images/Drawful2/drawful2_3.webp",
+              "game_images/Drawful2/drawful2_4.webp"
             ],
             "tags": [
               "drawing",

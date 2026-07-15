@@ -452,6 +452,21 @@ function trPhrase(s) {
   return out;
 }
 
+function buildEnGameMap(enPacks) {
+  const map = new Map();
+  for (const pack of enPacks.packs ?? []) {
+    for (const game of pack.games ?? []) map.set(game.id, game);
+  }
+  return map;
+}
+
+function keepEnGameImages(game, enById) {
+  const en = enById.get(game.id);
+  if (!en?.game_info) return;
+  if (en.background) game.background = en.background;
+  if (en.game_info.images) game.game_info.images = en.game_info.images;
+}
+
 function applyRuToGame(game) {
   const ruId = resolveRuId(game.id);
   const ru = ruId ? ruGames[ruId] : null;
@@ -463,10 +478,6 @@ function applyRuToGame(game) {
         game.game_info.small_description = ru.smallDescription ?? ru.tagline;
       }
       if (ru.description) game.game_info.description = ru.description;
-      if (ru.background) game.background = ru.background;
-      if (ru.images?.length && ru.images[0]) {
-        game.game_info.images = ru.images;
-      }
     }
   } else {
     game.name = trPhrase(game.name);
@@ -510,6 +521,12 @@ async function main() {
 
   const packsPath = path.join(SERVER_ROOT, 'api/v2/packs.json');
   const data = JSON.parse(fs.readFileSync(packsPath, 'utf8'));
+  const enPacks = JSON.parse(
+    await get(
+      'https://raw.githubusercontent.com/AkiraArtuhaxis/JackboxUtility-Server-en/main/api/v2/packs.json',
+    ),
+  );
+  const enById = buildEnGameMap(enPacks);
 
   for (const tag of data.tags ?? []) {
     const ru = TAGS_RU[tag.id];
@@ -534,7 +551,10 @@ async function main() {
       pack.description = year ? `Год выхода: ${year}. ${intro}` : intro;
     }
     for (const patch of [...(pack.patchs ?? []), ...(pack.fixes ?? [])]) translatePatch(patch);
-    for (const game of pack.games ?? []) applyRuToGame(game);
+    for (const game of pack.games ?? []) {
+      applyRuToGame(game);
+      keepEnGameImages(game, enById);
+    }
   }
 
   fs.writeFileSync(packsPath, JSON.stringify(data, null, 2) + '\n', 'utf8');
