@@ -1,26 +1,25 @@
 {
-    "news":[
+    "news": [
         {
-            "id":"2023-02-22 19:02:14",
-            "title":"Jackbox Utility",
-            "smallDescription":"Welcome to Jackbox Utility!",
-            "content":"# This is the new version of Jackbox Utility!\n\nIn this new version, the English language is added to the application.\n\nEnjoy!",
-            "image":"news_images/jackboxutility.png"
+            "id": "2026-07-15",
+            "title": "Jackbox Utility RU",
+            "smallDescription": "Добро пожаловать в Jackbox Utility!",
+            "content": "# Русский сервер Jackbox Utility\n\nПереводы игр и патчи с [jackboxgames.ru](https://jackboxgames.ru/) и [dl.whatif.one](https://dl.whatif.one/).\n\nПриятной игры!",
+            "image": "news_images/jackboxutility.png"
         },
         {
-            "id":"2023-02-22 19:02:14",
-            "title":"Join our Discord server!",
-            "smallDescription":"Join our Discord community server!",
-            "content":"# You need help? Wanna play some games?\n\nJoin our Discord server! You can also suggest features for the Utility.\n\n<https://discord.gg/CBTaTGx2zy>",
-            "image":"news_images/discord.png"
+            "id": "2026-07-15-discord",
+            "title": "Discord-чат переводчиков",
+            "smallDescription": "Присоединяйтесь к сообществу Jackbox RU!",
+            "content": "# Нужна помощь или хочется сыграть?\n\nЗаходите в Discord-чат русского сообщества:\n\n<https://discord.com/T3PKMAP>",
+            "image": "news_images/discord.png"
         },
         {
-            "id":"2023-02-22 19:02:14",
-            "title":"Game codes on EU/Canada!",
-            "smallDescription":"You can now buy game codes in EU and Canada!",
-            "content":"# If you're looking to buy the Jackbox games in these locations, you're in luck!\n\nWhen buying game codes in jackboxgames.com, you now get exclusive discounts in Europe and Canada, as well as in the United States.\n\nHappy buying!",
-            "image":"news_images/banner.png"
+            "id": "2026-07-15-dl",
+            "title": "Загрузки переводов",
+            "smallDescription": "Официальные архивы русификаторов на dl.whatif.one",
+            "content": "# Скачать переводы\n\nАктуальные файлы русификаторов — на сайте What If:\n\n<https://dl.whatif.one/>\n\nТребуется лицензионная копия игры в Steam.",
+            "image": "news_images/banner.png"
         }
     ]
-
 }

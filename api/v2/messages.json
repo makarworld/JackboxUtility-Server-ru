@@ -1,30 +1,29 @@
 {
-  "menuComponent" : {
-    "type":"column",
-    "children":[
+  "menuComponent": {
+    "type": "column",
+    "children": [
       {
-        "type":"text",
-        "text":""
+        "type": "text",
+        "text": ""
       },
       {
-        "type":"text",
-        "text":"Microsoft Store Users:"
-      },
-            {
-        "type":"text",
-        "text":"These versions must be added manually from the \"Settings\" section."
+        "type": "text",
+        "text": "Пользователям Microsoft Store:"
       },
       {
-        "type":"text",
-        "text":"You must select the \"Content\" folder within each game's folder. Example:"
+        "type": "text",
+        "text": "Эти версии нужно добавить вручную в разделе «Настройки»."
       },
       {
-        "type":"text",
-        "text":"C:/XboxGames/The Jackbox Party Pack 7/Content"
+        "type": "text",
+        "text": "Выберите папку «Content» внутри папки каждой игры. Например:"
+      },
+      {
+        "type": "text",
+        "text": "C:/XboxGames/The Jackbox Party Pack 7/Content"
       }
     ]
   },
-  "gamesComponent" : [],
-  "patchesComponent" : []
+  "gamesComponent": [],
+  "patchesComponent": []
 }
- 
